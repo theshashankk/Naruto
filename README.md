@@ -43,7 +43,7 @@
 Saitama is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
 * Bot Link:  <a href="https://t.me/naruto_RooBoT" alt="Naruto Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-naruto-blue" /> </a>
-* News channel: <a  href="https://t.me/narutosupport" alt="Naruto Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+* News channel: <a  href="https://t.me/narutosupport" alt="Naruto Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-20naruto%20Updates-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/theshashankk/naruto?color=white&label=%F0%9F%8C%9F%20star">
 
