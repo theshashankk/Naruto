@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://wallpaperscave.com/images/original/18/04-25/anime-one-punch-man-44886.jpg">
+  <img src="https://telegra.ph/file/22ff2fef6a2e1ba13ad03.jpg">
 </p>
 
-# Saitama Robot 
+# Naruto Robot
 
 <p align="center">
 - x -|│  “	Just some code who is a bot for fun. ”  │| - x -
