@@ -43,7 +43,7 @@
 Saitama is a simple one-punch solution to your group management needs and has become one of the most prominently kanged bots around telegram, purely weeab themed.
 
 * Bot Link:  <a href="https://t.me/naruto_RooBoT" alt="Naruto Robot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-naruto-blue" /> </a>
-* News channel: <a  href="https://t.me/narutosupport" alt="One Punch Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
+* News channel: <a  href="https://t.me/narutosupport" alt="Naruto Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-One%20Punch%20Updates-9cf" /> </a>
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/theshashankk/naruto?color=white&label=%F0%9F%8C%9F%20star">
 
@@ -87,7 +87,7 @@ from SaitamaRobot.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 254318997  # your telegram ID
-    OWNER_USERNAME = "SonOfLars"  # your telegram username
+    OWNER_USERNAME = "Theshashank"  # your telegram username
     API_KEY = "your bot api key"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
@@ -222,7 +222,7 @@ You can use [nssm](https://nssm.cc/usage) to install the bot as service on windo
 Make sure to edit the start and restart bats to your needs. 
 Note: the restart bat requires that User account control be disabled.
 
-For queries or any issues regarding the bot please open an issue ticket or visit us at [One Punch Support](https://t.me/OnePunchSupport)
+For queries or any issues regarding the bot please open an issue ticket or visit us at [Naruto Support](https://t.me/narutosupport)
 ## How to setup on Heroku 
 For starters click on this button 
 </details>  
