@@ -2,7 +2,7 @@ import requests
 import bs4 
 import re
 from telethon import *
-from Saitama.laylabot import layla
+from SaitamaRobot.laylabot import layla
 
 
 async def is_register_admin(chat, user):
