@@ -95,6 +95,8 @@ __help__ = """
  • `/wiki <query>`*:* wikipedia your query
 *Wallpapers:*
  • `/wall <query>`*:* get a wallpaper from wall.alphacoders.com
+ *IMDB Ratings:*
+ • `/imdb`*:*<movie name>: Get imdb result from imbd.com
 *Currency converter:* 
  • `/cash`*:* currency converter
 Example:
