@@ -101,7 +101,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/22ff2fef6a2e1ba13ad03.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/8e1b75d0d633e9eaa0f16.png"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/Theshashank) or by contacting @Theshashank \
@@ -232,7 +232,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🚑 Support Group",
-                                url=f"https://t.me/{SUPPORT_CHAT}",
+                                url=f"https://t.me/NarutoSupport",
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
