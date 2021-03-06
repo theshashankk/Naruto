@@ -47,6 +47,7 @@ Saitama is a simple one-punch solution to your group management needs and has be
 
 Should you be forking this repo then do not forget to star it - <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/theshashankk/naruto?color=white&label=%F0%9F%8C%9F%20star">
 
+# Deploy
 ## How to setup/deploy.
 
 
