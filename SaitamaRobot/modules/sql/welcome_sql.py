@@ -11,6 +11,7 @@ DEFAULT_GOODBYE = "Nice knowing ya!"
 
 DEFAULT_WELCOME_MESSAGES = [
     "{first} is here!",  # Discord welcome messages copied
+    "{first} Sur Jii Wlc",
     "Ready player {first}",
     "Genos, {first} is here.",
     "A wild {first} appeared.",
@@ -161,7 +162,8 @@ DEFAULT_WELCOME_MESSAGES = [
     "Come with me if you want to live",
 ]
 DEFAULT_GOODBYE_MESSAGES = [
-    "{first} will be missed.",
+    "[first] pehli Furshat me nikkklll"
+    "{first} Awwww will be missed.",
     "{first} just went offline.",
     "{first} has left the lobby.",
     "{first} has left the clan.",
