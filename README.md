@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://telegra.ph/file/8e1b75d0d633e9eaa0f16.png">
+  <img src="https://telegra.ph/file/26db75553ba7e7de21bff.jpg">
 </p>
 
 # Naruto Robot
