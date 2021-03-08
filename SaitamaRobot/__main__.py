@@ -101,7 +101,7 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/26db75553ba7e7de21bff.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/0c17482c4bfa0fda3d360.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project via [Paypal](ko-fi.com/Theshashank) or by contacting @Theshashank \
@@ -223,7 +223,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="☑️ Add Naruto to your group",
+                                text="☑️ Add White Devil to your group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -232,17 +232,17 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🚑 Support Group",
-                                url=f"https://t.me/NarutoSupport",
+                                url=f"https://t.me/WhitEDeviLHackSMoD",
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
-                                url="https://t.me/NarutoSupporT",
+                                url="https://t.me/WhitEDeviLHackSMoD",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="🧾 Getting started guide",
-                                url="https://t.me/NarutoSupporT",
+                                url="https://t.me/WhitEDeviLHackSMoD",
                             )
                         ],
                         [
