@@ -232,17 +232,17 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🚑 Support Group",
-                                url=f"https://t.me/WhitEDeviLHackSMoD",
+                                url=f"https://t.me/NarutoSupport",
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
-                                url="https://t.me/WhitEDeviLHackSMoD",
+                                url="https://t.me/NarutoSupport",
                             ),
                         ],
                         [
                             InlineKeyboardButton(
                                 text="🧾 Getting started guide",
-                                url="https://t.me/WhitEDeviLHackSMoD",
+                                url="https://t.me/NarutoSupport",
                             )
                         ],
                         [
