@@ -77,7 +77,7 @@ Hi {}, my name is {}!
 I am an Anime themed group management bot.
 Build by weebs for weebs, I specialize in managing anime and similar themed groups.
 You can find my list of available commands with /help.
-Maintained by @Theshashank
+Maintained by @SAVAGEGAMING001
 """
 
 HELP_STRINGS = """
@@ -101,10 +101,10 @@ And the following:
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
 )
 
-SAITAMA_IMG = "https://telegra.ph/file/0c17482c4bfa0fda3d360.jpg"
+SAITAMA_IMG = "https://telegra.ph/file/35ddd11c07912fbc69fe9.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](ko-fi.com/Theshashank) or by contacting @Theshashank \
+ You can support the project via [Savage](tme/) or by contacting @Theshashank \
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at @narutoSupporT."""
 
