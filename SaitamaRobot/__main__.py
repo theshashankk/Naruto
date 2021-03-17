@@ -242,7 +242,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🧾 Getting started guide",
-                                url="https://t.me/NarutoSupport",
+                                url="https://t.me/joinchat/VchR9KwBbiumbsSi",
                             )
                         ],
                         [
