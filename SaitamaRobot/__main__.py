@@ -104,9 +104,9 @@ And the following:
 SAITAMA_IMG = "https://telegra.ph/file/35ddd11c07912fbc69fe9.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Savage](tme/) or by contacting @Theshashank \
+ You can support the project via [Savage](t.me/SAVAGEGAMING001) or by contacting @SAVAGEGAMING001 \
  Supporting isnt always financial! \
- Those who cannot provide monetary support are welcome to help us develop the bot at @narutoSupporT."""
+ Those who cannot provide monetary support are welcome to help us develop the bot at Savage Clan."""
 
 IMPORTED = {}
 MIGRATEABLE = []
@@ -223,7 +223,7 @@ def start(update: Update, context: CallbackContext):
                     [
                         [
                             InlineKeyboardButton(
-                                text="☑️ Add White Devil to your group",
+                                text="☑️ Add SAVAGE  to your group",
                                 url="t.me/{}?startgroup=true".format(
                                     context.bot.username
                                 ),
@@ -232,11 +232,11 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="🚑 Support Group",
-                                url=f"https://t.me/NarutoSupport",
+                                url=f"https://t.me/joinchat/oc1riOdazvVjN2M5",
                             ),
                             InlineKeyboardButton(
                                 text="🔔 Updates Channel",
-                                url="https://t.me/NarutoSupport",
+                                url="https://t.me/joinchat/VchR9KwBbiumbsSi",
                             ),
                         ],
                         [
